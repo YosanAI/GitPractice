@@ -1,2 +1,2 @@
 # GitPractice
-practicing Git
+practicing commit
